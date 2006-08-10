@@ -1,12 +1,12 @@
 Summary:	Solving "harmonic inversion" problem
 Summary(pl):	Rozwi±zywanie problemu "inwersji harmonicznych"
 Name:		harminv
-Version:	1.3
+Version:	1.3.1
 Release:	0.1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://ab-initio.mit.edu/harminv/%{name}-%{version}.tar.gz
-# Source0-md5:	d8cccf981ee4315b9d6c4d43fc7d4590
+# Source0-md5:	d3f49f1c90856b3b2e8b77dc4a99c37a
 URL:		http://ab-initio.mit.edu/harminv/
 BuildRequires:	blas-devel
 BuildRequires:	lapack-devel
