@@ -1,5 +1,5 @@
 Summary:	Solving "harmonic inversion" problem
-Summary(pl):	Rozwi±zywanie problemu "inwersji harmonicznych"
+Summary(pl.UTF-8):   RozwiÄ…zywanie problemu "inwersji harmonicznych"
 Name:		harminv
 Version:	1.3.1
 Release:	0.1
@@ -19,11 +19,11 @@ signal that consists of a sum of finitely-many sinusoids (possibly
 exponentially decaying), it determines the frequencies, decay
 constants, amplitudes, and phases of those sinusoids.
 
-%description -l pl
-Harminv jest darmowym programem do rozwi±zywania problemu "inwersji
-harmonicznych". Maj±c zadany dyskretny, skoñczonej d³ugo¶ci sygna³
-sk³adaj±cy siê z sumy skoñczonej liczby sinusoid (które mog± wygasaæ
-wyk³adniczo), okre¶la czêstotliwo¶ci, sta³e wygasania, amplitudy i
+%description -l pl.UTF-8
+Harminv jest darmowym programem do rozwiÄ…zywania problemu "inwersji
+harmonicznych". MajÄ…c zadany dyskretny, skoÅ„czonej dÅ‚ugoÅ›ci sygnaÅ‚
+skÅ‚adajÄ…cy siÄ™ z sumy skoÅ„czonej liczby sinusoid (ktÃ³re mogÄ… wygasaÄ‡
+wykÅ‚adniczo), okreÅ›la czÄ™stotliwoÅ›ci, staÅ‚e wygasania, amplitudy i
 fazy tych sinusoid.
 
 %prep
