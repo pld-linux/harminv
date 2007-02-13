@@ -1,5 +1,5 @@
 Summary:	Solving "harmonic inversion" problem
-Summary(pl.UTF-8):   Rozwiązywanie problemu "inwersji harmonicznych"
+Summary(pl.UTF-8):	Rozwiązywanie problemu "inwersji harmonicznych"
 Name:		harminv
 Version:	1.3.1
 Release:	0.1
